@@ -9,7 +9,8 @@ This repository contains the source code accompanying the paper "PPRP: Preservin
 - **classic_three.py**: Main file for testing  PHE+PPS.
 - **ckks_localization.py**: Main file for testing the FHEBASE algorithm.
 - **accuracy_benchmark.py**: Main file for evaluating the accuracy of both the proposed and classical schemes.
-- **exec_benchmark.py**: Main file for assessing the computational efficiency of both the proposed and classical schemes.
+- **exec_benchmark.py**: Main file for evaluating the computational efficiency of both the proposed and classical schemes.
+- **UE_benchmark.py**: Main file for evaluating the computational efficiency of both the proposed and classical schemes (UE side).
 
 ## Getting Started
 The prototype is developed using Python 3.9 in PyCharm. You can import the project into PyCharm or another IDE of your choice that supports Python development.
